@@ -1,0 +1,19 @@
+# .gitignore
+*.pyc
+__pycache__/
+
+.venv/
+
+/bin/
+/lib/
+/include/
+
+.vscode/
+
+build/
+dist/
+
+#*.log
+*.sqlite3
+
+.env
